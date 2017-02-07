@@ -58,6 +58,13 @@
 	    <artifactId>mysql-connector-java</artifactId>
 	    <version>5.1.40</version>
 	</dependency>
+	
+	<!-- enviador de email -->
+	<dependency>
+	    <groupId>br.com.enviadorEmail</groupId>
+	    <artifactId>enviadorEmail</artifactId>
+	    <version>0.0.1-SNAPSHOT</version>
+	</dependency>
 
   </dependencies>
   
